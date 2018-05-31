@@ -1,8 +1,9 @@
 {
-    "name": "Magecomp\/Deleteorder",
-    "description": "",
+    "name": "scriptua/magento2-deleteorder",
+    "description": "Delete bulk orders from orders list page in backend. Option to enable or disable order deletion from order view page.",
     "require": {
-        "php": "~5.5.0|~5.6.0"
+        "php": "~7.0.0|~7.1.0|~7.2.0",
+        "magento/module-sales": "101.0.*"
     },
     "type": "magento2-module",
     "version": "1.0.0",
