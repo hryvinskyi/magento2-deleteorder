@@ -14,7 +14,7 @@
             "registration.php"
         ],
         "psr-4": {
-            "Magecomp\\Deleteorder\\": ""
+            "Script\\Deleteorder\\": ""
         }
     }
 }
